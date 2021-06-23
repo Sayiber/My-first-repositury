@@ -23,3 +23,5 @@ function great(name) {
 
 great('John');
 great('Mary');
+
+alert('Hello there')
