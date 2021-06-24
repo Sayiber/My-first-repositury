@@ -24,4 +24,4 @@ function great(name) {
 great('John');
 great('Mary');
 
-alert('Hello there')
+alert('Hello there \n This is a test')
